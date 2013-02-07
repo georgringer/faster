@@ -11,7 +11,7 @@
 ########################################################################
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'faster',
+	'title' => 'Renders full cached pages much faster because of taking some short cuts.',
 	'description' => 'faster',
 	'category' => 'fe',
 	'author' => 'Georg Ringer',
